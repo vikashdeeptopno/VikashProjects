@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analytics Dashboard
+# ☕ Coffee Shop Sales Analytics Dashboard (Using Gen AI)
 
 A comprehensive data analysis and interactive dashboard for coffee shop sales data, built with Python, Pandas, and Streamlit.
 
