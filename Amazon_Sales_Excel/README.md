@@ -17,4 +17,4 @@ Analyze retail sales data to identify top products, seasonal trends, and regiona
 - South region showed consistent growth compared to others.
 
 ## Dashboard
-![Dashboard Screenshot](Dashboard Image.jpg)
+![Dashboard Screenshot](Dashboard.jpg)
