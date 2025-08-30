@@ -4,42 +4,42 @@ This is a COVID-19 dashboard I built in Excel to turn raw numbers into something
 
 🔹 Key Insights from the Dashboard
 
-Overall Statistics:
+- **Overall Statistics:**
 
-Confirmed cases, Active cases, Recoveries, and Deaths at a global level.
+- Confirmed cases, Active cases, Recoveries, and Deaths at a global level.
 
-Country-Level Analysis:
+- Country-Level Analysis:
 
-Top 10 countries with the highest active cases.
+- Top 10 countries with the highest active cases.
 
-Top 5 countries with the highest infection rate (%).
+- Top 5 countries with the highest infection rate (%).
 
-Top 5 countries with the highest recovery and death rates.
+- Top 5 countries with the highest recovery and death rates.
 
-Continent-Level Trends:
+- **Continent-Level Trends:**
 
-Distribution of confirmed cases across continents.
+- Distribution of confirmed cases across continents.
 
-Average recovery rates by continent.
+- Average recovery rates by continent.
 
-Comparative Analysis:
+- **Comparative Analysis:**
 
-Confirmed vs. Recovered cases (Top 10 countries).
+- Confirmed vs. Recovered cases (Top 10 countries).
 
-Confirmed vs. Death rate (Top 10 countries).
+- Confirmed vs. Death rate (Top 10 countries).
 
-Geographic Risk Map:
+**Geographic Risk Map:**
 
-Mortality risk levels visualized globally (High, Moderate, Low).
+- Mortality risk levels visualized globally (High, Moderate, Low).
 
 
-Tools & Techniques Used
+**Tools & Techniques Used**
 
-Microsoft Excel for data cleaning, transformation, and dashboard creation.
+- Microsoft Excel for data cleaning, transformation, and dashboard creation.
 
-Charts & Visualizations: Bar charts, Pie charts, Line graphs, and Geographic map visuals.
+- Charts & Visualizations: Bar charts, Pie charts, Line graphs, and Geographic map visuals.
 
-Dynamic Design: Easy to interpret and visually appealing, showing both absolute numbers and percentages.
+- Dynamic Design: Easy to interpret and visually appealing, showing both absolute numbers and percentages.
 
 🚀 Purpose
 This project was my way of practicing data storytelling – not just crunching numbers but presenting them in a way anyone can follow. It also shows how powerful Excel can be when it comes to analyzing and visualizing real-world data.
