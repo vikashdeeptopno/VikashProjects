@@ -1,4 +1,4 @@
-COVID-19 Global Dashboard (Excel)
+##COVID-19 Global Dashboard (Excel)
 
 This is a COVID-19 dashboard I built in Excel to turn raw numbers into something that’s easier to understand at a glance. Instead of scrolling through tables of data, you can quickly see which countries were most affected, how recovery looked across different regions, and how the pandemic spread around the world.
 
