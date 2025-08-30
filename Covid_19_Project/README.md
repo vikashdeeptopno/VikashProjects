@@ -42,7 +42,8 @@ This is a COVID-19 dashboard I built in Excel to turn raw numbers into something
 - Dynamic Design: Easy to interpret and visually appealing, showing both absolute numbers and percentages.
 
 🚀 Purpose
-This project was my way of practicing data storytelling – not just crunching numbers but presenting them in a way anyone can follow. It also shows how powerful Excel can be when it comes to analyzing and visualizing real-world data.
+
+*This project was my way of practicing data storytelling – not just crunching numbers but presenting them in a way anyone can follow. It also shows how powerful Excel can be when it comes to analyzing and visualizing real-world data.*
 
 ## 📊 Dashboard Preview
 ![COVID-19 Dashboard](Covid_19_dashboard.jpg)
