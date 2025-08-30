@@ -4,11 +4,11 @@ This is a COVID-19 dashboard I built in Excel to turn raw numbers into something
 
 🔹 Key Insights from the Dashboard
 
-- **Overall Statistics:**
+**Overall Statistics:**
 
 - Confirmed cases, Active cases, Recoveries, and Deaths at a global level.
 
-- Country-Level Analysis:
+**Country-Level Analysis:**
 
 - Top 10 countries with the highest active cases.
 
@@ -16,13 +16,13 @@ This is a COVID-19 dashboard I built in Excel to turn raw numbers into something
 
 - Top 5 countries with the highest recovery and death rates.
 
-- **Continent-Level Trends:**
+**Continent-Level Trends:**
 
 - Distribution of confirmed cases across continents.
 
 - Average recovery rates by continent.
 
-- **Comparative Analysis:**
+**Comparative Analysis:**
 
 - Confirmed vs. Recovered cases (Top 10 countries).
 
