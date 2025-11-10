@@ -20,4 +20,4 @@ Once that bias was understood, the difference disappeared.
 This project taught me how important it is to question first impressions in data.  
 Sometimes what looks like a clear pattern is actually just the result of how the information was collected or recorded.
 
-## Folder Overview  
+
