@@ -1,45 +1,23 @@
-# Left-Handedness and Age Analysis
+# Do Left-Handed People Really Die Younger?  
+**Internship Project – MedTourEasy**
 
-## Project Overview
-This project analyzes the relationship between left-handedness rates and age demographics. The analysis explores how left-handedness prevalence varies across different age groups and investigates potential trends and patterns.
+## About the Project  
+I worked on this project during my internship with **MedTourEasy**.  
+The aim was to find out whether left-handed people actually live shorter lives than right-handers — a claim that has often been repeated but rarely tested carefully.
 
-## Internship Project
-**Organization:** MedTourEasy  
-**Project Type:** Data Analysis & Statistical Modeling
+## What I Did  
+- Studied real-world data on age and handedness.  
+- Looked at patterns across different generations to see how left-handedness changed over time.  
+- Created simple charts to compare left- and right-handers.  
+- Interpreted what the data really meant, rather than just what it seemed to show.
 
-## Contents
-- `LeftHandedness_Age_Analysis.ipynb` - Jupyter notebook containing the complete analysis
+## What I Found  
+The idea that left-handed people die younger turned out to be **misleading**.  
+It only looked that way because older generations had fewer recorded left-handers — not because left-handers actually lived shorter lives.  
+Once that bias was understood, the difference disappeared.
 
-## Analysis Components
-- **Data Exploration:** Initial examination of left-handedness distribution by age
-- **Statistical Analysis:** Correlation and trend analysis
-- **Visualization:** Charts and plots showing age-related patterns
-- **Insights & Findings:** Key takeaways from the analysis
+## What I Learned  
+This project taught me how important it is to question first impressions in data.  
+Sometimes what looks like a clear pattern is actually just the result of how the information was collected or recorded.
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib/Seaborn/Plotly
-- Jupyter Notebook
-
-## How to Run
-1. Clone the repository
-2. Install required dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn plotly jupyter
-   ```
-3. Open the Jupyter notebook:
-   ```bash
-   jupyter notebook LeftHandedness_Age_Analysis.ipynb
-   ```
-4. Run all cells to reproduce the analysis
-
-## Key Findings
-The analysis provides insights into how left-handedness rates vary across age groups, examining potential demographic and generational patterns.
-
-## Author
-Vikash Deep Topno
-
-## License
-This project is part of an internship assignment with MedTourEasy.
+## Folder Overview  
